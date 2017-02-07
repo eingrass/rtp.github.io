@@ -47,7 +47,10 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
-
+img {
+	max-width:200%;
+	max-height:200%;
+}
 /* Box Model */
 
 	*, *:before, *:after {
