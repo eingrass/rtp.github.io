@@ -7,8 +7,9 @@
 /* Basic */
 
 	body {
-		background-color: #2e3141;
-		background-image: url("../../images/background.jpg");
+		background-color: #ff69b4;
+
+		background-image: url("http://i.imgur.com/YMcc2cL.png");
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: center;
@@ -46,7 +47,12 @@
 /* Wrapper */
 
 	#wrapper > header {
-		background: none !important;
+		background-image: url("http://i.imgur.com/YMcc2cL.png");
+		display: block;
+		height: 100%;
+		width: 100%;
+		Opacity: .5;
+		background-repeat: repeat-x;
 	}
 
 	.wrapper.spotlight .inner {
@@ -69,7 +75,11 @@
 /* Banner */
 
 	#banner {
-		background: none !important;
+		background-color: ;
+background-image: url("images/background.jpg");
+background-repeat:repeat-x;
+background-attachment: scroll; scroll;
+background-position: fixed;
 	}
 
 /* Footer */

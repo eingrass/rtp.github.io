@@ -23,7 +23,10 @@
 	}
 
 	body {
+		background-color: inherit;
+		background-image: url("images/background.jpg");
 		line-height: 1;
+
 	}
 
 	ol, ul {
@@ -48,9 +51,9 @@
 		-webkit-text-size-adjust: none;
 	}
 img {
-	max-width:200%;
-	max-height:200%;
-}
+	max-width:180%;
+	max-height:180%;}
+
 /* Box Model */
 
 	*, *:before, *:after {
